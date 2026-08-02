@@ -1,0 +1,13 @@
+===== SIGNOFF SUMMARY =====
+tritonRoute_violations: 0
+Short_violations: 0
+MetSpc_violations: 0
+OffGrid_violations: 0
+MinHole_violations: 0
+Other_violations: 0
+Magic_violations: 0
+pin_antenna_violations: 88
+net_antenna_violations: 80
+lvs_total_errors: 0
+klayout_violations: -1
+GRT_REPAIR_ANTENNAS: 1

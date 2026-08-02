@@ -1,0 +1,12 @@
+CASE 1 PASSED: A=1, B=1, C=8
+busy = 0, done = 1
+CASE 2 PASSED: A=0, B=1, C=0
+busy = 0, done = 1
+CASE 3 PASSED: A=-1, B=1, C=-8
+busy = 0, done = 1
+CASE 4 PASSED: A=2, B=-3, C=-48
+busy = 0, done = 1
+CASE 5 PASSED: A=-2, B=-2, C=32
+busy = 0, done = 1
+ALL TEST CASES PASSED
+- tb_top1.sv:154: Verilog $finish

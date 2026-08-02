@@ -1,0 +1,18 @@
+===== SYNTHESIS SUMMARY =====
+reports/synthesis/1-synthesis.AREA_0.stat.rpt:13:   Number of cells:               2319
+reports/synthesis/1-synthesis.AREA_0.stat.rpt:70:   Chip area for module '\top': 23254.803200
+reports/synthesis/1-synthesis_dff.stat:13:   Number of cells:               2832
+reports/synthesis/1-synthesis_pre.stat:13:   Number of cells:               2568
+logs/synthesis/1-synthesis.log:1021:   Number of cells:               2568
+logs/synthesis/1-synthesis.log:1094:   Number of cells:               2568
+logs/synthesis/1-synthesis.log:1177:   Number of cells:               2832
+logs/synthesis/1-synthesis.log:1546:   Number of cells:               2319
+logs/synthesis/1-synthesis.log:1603:   Chip area for module '\top': 23254.803200
+
+===== CONFIG =====
+14:set ::env(CLOCK_PERIOD) "100"
+53:set ::env(DESIGN_NAME) "top"
+55:set ::env(DIE_AREA) "0.0 0.0 1500.0 1500.0"
+70:set ::env(FP_CORE_UTIL) "10"
+261:set ::env(PL_TARGET_DENSITY) "0.15"
+358:set ::env(SYNTH_STRATEGY) "AREA 0"

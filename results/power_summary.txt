@@ -1,0 +1,10 @@
+===== POWER SUMMARY =====
+power_slowest_internal_uW: -1
+power_slowest_switching_uW: -1
+power_slowest_leakage_uW: -1
+power_typical_internal_uW: 0.00072
+power_typical_switching_uW: 0.00137
+power_typical_leakage_uW: 1.19e-07
+power_fastest_internal_uW: -1
+power_fastest_switching_uW: -1
+power_fastest_leakage_uW: -1

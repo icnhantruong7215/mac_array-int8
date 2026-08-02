@@ -1,0 +1,15 @@
+===== STA SUMMARY =====
+flow_status: flow completed
+wns: 0.0
+pl_wns: -1
+optimized_wns: -1
+fastroute_wns: -1
+spef_wns: 0.0
+tns: 0.0
+pl_tns: -1
+optimized_tns: -1
+fastroute_tns: -1
+spef_tns: 0.0
+suggested_clock_period: 100.0
+suggested_clock_frequency: 10.0
+CLOCK_PERIOD: 100
